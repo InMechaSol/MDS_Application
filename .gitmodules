@@ -1,0 +1,18 @@
+[submodule "0_Clean_BaseLib"]
+	path = 0_Clean_BaseLib
+	url = https://github.com/InMechaSol/0_Clean_BaseLib.git
+[submodule "1_MDS_CoreLib"]
+	path = 1_MDS_CoreLib
+	url = https://github.com/InMechaSol/1_MDS_CoreLib.git
+[submodule "2_MDS_Application"]
+	path = 2_MDS_Application
+	url = https://github.com/InMechaSol/2_MDS_Application.git
+[submodule "21_MDS_CodeGeneration"]
+	path = 21_MDS_CodeGeneration
+	url = https://github.com/InMechaSol/21_MDS_CodeGeneration.git
+[submodule "22_MDS_ProductConnection"]
+	path = 22_MDS_ProductConnection
+	url = https://github.com/InMechaSol/22_MDS_ProductConnection.git
+[submodule "23_MDS_ProductSimulation"]
+	path = 23_MDS_ProductSimulation
+	url = https://github.com/InMechaSol/23_MDS_ProductSimulation.git
